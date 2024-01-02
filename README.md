@@ -11,7 +11,7 @@
 Ключевое задание для студентов - разработать собственные контексты по основам Python, Numpy и Pandas. 
 Таким образом, по итогам курса у студентов актуализированы навыки работы на языке Python, появились навыки создания собственных соревнований по программированию, а также есть своя база задач. 
 
-These materials were used within the framework of the course “Information technologies in the framework of professional activities” of the master’s training program “Innovative technologies of engineering and physics education.”
+This materials were used in the course “Information technologies in the framework of professional activities” of the master’s program “Innovative technologies of engineering and physics education.”
 The program was launched at the National Research Nuclear University MEPhI in 2023. Its main goal is to prepare physics teachers who are able to convey modern physics to children in such a way as to entice them into engineering and scientific activities in the future.
 This course is aimed at reviewing the basics of programming in Python, as well as mastering Yandex.Contest.
 
