@@ -34,21 +34,21 @@ Thus, as a result of the course, students have updated their skills in working i
 
 ### Основы программирования
 
-* Студент №1: https://contest.yandex.ru/contest/56951/standings \
-* Студент №2: https://contest.yandex.ru/contest/56052/standings \
-* Студент №3: https://contest.yandex.ru/contest/55738/standings \
+* Студент №1: https://contest.yandex.ru/contest/56951/standings
+* Студент №2: https://contest.yandex.ru/contest/56052/standings
+* Студент №3: https://contest.yandex.ru/contest/55738/standings
 * Студент №4: https://contest.yandex.ru/contest/56150/standings 
 
 ### Numpy
 
-* Студент №1: https://contest.yandex.ru/contest/55208/standings \
-* Студент №2: https://contest.yandex.ru/contest/56950/standings \
-* Студент №3: https://contest.yandex.ru/contest/56394/standings \
+* Студент №1: https://contest.yandex.ru/contest/55208/standings
+* Студент №2: https://contest.yandex.ru/contest/56950/standings
+* Студент №3: https://contest.yandex.ru/contest/56394/standings
 * Студент №4: https://contest.yandex.ru/contest/56477/standings
 
 ### Pandas
 
-* Студент №1: https://contest.yandex.ru/contest/57474/standings \
-* Студент №2: https://contest.yandex.ru/contest/57273/standings \
-* Студент №3: https://contest.yandex.ru/contest/57500/standings \
+* Студент №1: https://contest.yandex.ru/contest/57474/standings
+* Студент №2: https://contest.yandex.ru/contest/57273/standings
+* Студент №3: https://contest.yandex.ru/contest/57500/standings
 * Студент №4: https://contest.yandex.ru/contest/57471/standings
